@@ -1,4 +1,7 @@
+import java.util.AyyaryList;
 public class Terminal {
 public static void main(String args[]){
+ArrayList alIst = new ArrayList();
+aList.add("hello");
 System.out.println("hello");
 }}
