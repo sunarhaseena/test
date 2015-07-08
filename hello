@@ -3,5 +3,6 @@ public class Terminal {
 public static void main(String args[]){
 ArrayList alIst = new ArrayList();
 aList.add("hello");
+aList.add("sunar");
 System.out.println("hello");
 }}
