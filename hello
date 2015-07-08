@@ -4,5 +4,6 @@ public static void main(String args[]){
 ArrayList alIst = new ArrayList();
 aList.add("hello");
 aList.add("sunar");
+aList.add("welcome to git");
 System.out.println("hello");
 }}
